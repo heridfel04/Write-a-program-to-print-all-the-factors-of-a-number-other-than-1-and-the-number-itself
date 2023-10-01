@@ -1,1 +1,1 @@
-# Write-a-program-to-print-all-the-factors-of-a-number-other-than-1-and-the-number-itself
+
